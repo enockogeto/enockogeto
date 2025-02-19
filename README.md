@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enockogeto
-- 👀 I’m interested in frontend development and bot development
+- 👀 I’m interested in frontend development and design
 - 💞️ I’m looking to collaborate on any fun and challenging project
 - ⚡ Fun fact: I'm actually not sure I'm not a robot
 
